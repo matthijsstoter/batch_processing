@@ -63,16 +63,15 @@ class Window(QWidget):
         self.processor.process(filepaths, target_folder)
 
 
-app = QApplication(sys.argv)
-window = Window(FileProcessor())
-sys.exit(app.exec_())
+def run():
+    app = QApplication(sys.argv)
+    window = Window(FileProcessor())
+    sys.exit(app.exec_())
 
 
 
 
 
 
-# if __name__ == "__main__":
-#     app = QApplication(sys.argv)
-#     window = Application()
-#     sys.exit(app.exec_())
+if __name__ == "__main__":
+    run()
