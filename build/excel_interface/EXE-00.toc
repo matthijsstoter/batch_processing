@@ -1,0 +1,85 @@
+('/Users/matthijsstoter/Documents/Data '
+ 'science/Code/batch_processing/build/excel_interface/excel_interface',
+ False,
+ False,
+ True,
+ None,
+ None,
+ False,
+ False,
+ None,
+ True,
+ False,
+ 'x86_64',
+ None,
+ None,
+ '/Users/matthijsstoter/Documents/Data '
+ 'science/Code/batch_processing/build/excel_interface/excel_interface.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/build/excel_interface/PYZ-00.pyz',
+   'PYZ'),
+  ('lib-dynload/_struct.cpython-310-darwin.so',
+   '/Users/matthijsstoter/.pyenv/versions/3.10.1/lib/python3.10/lib-dynload/_struct.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-310-darwin.so',
+   '/Users/matthijsstoter/.pyenv/versions/3.10.1/lib/python3.10/lib-dynload/zlib.cpython-310-darwin.so',
+   'EXTENSION'),
+  ('struct',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/build/excel_interface/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/build/excel_interface/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/build/excel_interface/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/build/excel_interface/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/env/lib/python3.10/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/env/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/env/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/env/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/env/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/env/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt5',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/env/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pyqt5.py',
+   'PYSOURCE'),
+  ('excel_interface',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/excel_interface.py',
+   'PYSOURCE')],
+ [],
+ False,
+ False,
+ 1702895332,
+ [('runw',
+   '/Users/matthijsstoter/Documents/Data '
+   'science/Code/batch_processing/env/lib/python3.10/site-packages/PyInstaller/bootloader/Darwin-64bit/runw',
+   'EXECUTABLE')],
+ '/Users/matthijsstoter/.pyenv/versions/3.10.1/Library/Frameworks/Python.framework/Versions/3.10/Python')

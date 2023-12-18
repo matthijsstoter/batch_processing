@@ -66,7 +66,8 @@ class Window(QWidget):
 def run():
     app = QApplication(sys.argv)
     window = Window(FileProcessor())
-    sys.exit(app.exec_())
+    # sys.exit(app.exec_())
+    app.exec()
 
 
 
